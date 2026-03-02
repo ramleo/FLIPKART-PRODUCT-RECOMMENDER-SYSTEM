@@ -14,6 +14,8 @@ RUN apt-get update && apt-get install -y \
     curl \
     && rm -rf /var/lib/apt/lists/*
 
+## RUN pip install markdown
+
 ## Copying ur all contents from local to app
 COPY . .
 
