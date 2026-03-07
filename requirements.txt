@@ -21,4 +21,6 @@ transformers
 torch
 pandas
 numpy
+datasets
 prometheus-client
+pypdf
