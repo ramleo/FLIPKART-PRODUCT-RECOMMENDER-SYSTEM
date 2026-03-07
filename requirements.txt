@@ -21,3 +21,4 @@ transformers
 torch
 pandas
 numpy
+prometheus-client
